@@ -1,0 +1,7 @@
+{
+  "name": "Japan Travel Handbook 2025",
+  "description": "A mobile-first, elegant travel guide for a 6-day Japan adventure from Mt. Fuji to Tokyo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
